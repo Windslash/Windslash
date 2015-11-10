@@ -2,7 +2,7 @@
 	name = Windslash
 	email = windslash@
 [core]
-	exludesfile = .gitignore
+	excludesfile = ~/.gitignore
 	autocrlf = input
 [alias]
 	st = status
